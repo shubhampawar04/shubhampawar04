@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on <b>[Dice Roller](https://dice-roller-sp.netlify.app/)</b>
 
 
-- 💬 Ask me about **HTML,CSS,Javascript,Recatjs&MongoDB**
+- 💬 Ask me about **HTML , CSS , Javascript , Recatjs & MongoDB**
 
 - 📫 How to reach me **pawarshubham81668@gmail.com**
 
